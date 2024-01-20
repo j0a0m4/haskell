@@ -10,7 +10,7 @@ Exercises from [Haskell Programming](https://haskellbook.com)
 - :white_check_mark: Lambda Calculus
 - :white_check_mark: Hello Haskell
 - :white_check_mark: Printing Strings
-- :white_large_square: Basic Datatypes
+- :white_check_mark: Basic Datatypes
 
 ### Defining and combining
 - :white_large_square: Types
